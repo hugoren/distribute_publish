@@ -6,7 +6,7 @@ python	      2.7.10
 paramiko	    1.16.0	        用于ssh链接服务器
 progressbar	  2.3-py2.7	     google的一个进度条python模块
 
-＃程序结构
+#程序结构
 本程序由4-5个目录构成（bin、conf、log、script、dist、build）:
 bin：存放了主程序文件。
 conf：存放了配置文件。
@@ -18,4 +18,4 @@ build：如果是使用exe版就存在此目录 -> 存放python编译后的文�
 
 #程序流程图
 
-[![alt text](https://www.ttlsa.com/wp-content/uploads/2016/01/python-upload-01.png "title")]
+[![alt text](https://www.ttlsa.com/wp-content/uploads/2016/01/python-upload-01.png)]
