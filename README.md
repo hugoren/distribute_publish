@@ -18,4 +18,4 @@ build：如果是使用exe版就存在此目录 -> 存放python编译后的文�
 
 #程序流程图
 
-[![alt text](https://www.ttlsa.com/wp-content/uploads/2016/01/python-upload-01.png)]
+![alt text](http://dl2.iteye.com/upload/attachment/0116/4532/3b1e36a0-32fb-3394-83ea-58f208c6acae.png)
